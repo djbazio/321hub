@@ -1,8 +1,8 @@
 {
   "name": "321hub",
-  "theme": "syntax",
+  "theme": "321hub",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "321hub",
   "keywords": [
     "syntax",
     "theme"
